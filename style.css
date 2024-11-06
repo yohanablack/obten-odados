@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&display=swap');
 
 :root {
-    --bg-color: #0b286cd4;
-    --primary-color: #1a8912;
-    --secondary-color: #F05454;
+    --bg-color: hsla(244, 86%, 23%, 0.904);
+    --primary-color: #ddd315;
+    --secondary-color: #08640b;
     --font: "Bona Nova SC", sans-serif;
 }
 
