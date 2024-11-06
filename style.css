@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&display=swap');
 
 :root {
     --bg-color: #0b286cd4;
     --primary-color: #1a8912;
     --secondary-color: #F05454;
-    --font: "Nunito Sans", sans-serif;
+    --font: "Bona Nova SC", sans-serif;
 }
 
 body {
